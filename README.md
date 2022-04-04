@@ -1,4 +1,5 @@
 # CheapSwedishAlcohol
+The goal of this project is to get a list of alcoholic beverages from Systembolaget, sorted after milliliters of alcohol per 100SEK. This should give a sense of what would give you most alcohol for your money.
 
 ## Requrements:
 - Python 3.7
